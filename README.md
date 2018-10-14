@@ -1,5 +1,5 @@
 # Node.js API
-This repo contains the JavaScript code for the REST APIs that I have created using Node.js. An API (Application Programming Interface) is a software-to-software interface that enables two applications to exchange data among each other. APIs are used widely in the real world to create amazing applications. Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser and can perform as a server to run the APIs. 
+This repo contains the JavaScript code for the REST APIs that I have created using Node.js. It is a project completed as part of the Next Academy Full Stack Web Development Bootcamp. An API (Application Programming Interface) is a software-to-software interface that enables two applications to exchange data among each other. APIs are used widely in the real world to create amazing applications. Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser and can perform as a server to run the APIs. 
 
 ## Investing Quotes APIs
 Using HTTP GET request, user can fetch a random quote about Investing via the API endpoint. User can also submit their own investing quotes to the server using HTTP POST request.
